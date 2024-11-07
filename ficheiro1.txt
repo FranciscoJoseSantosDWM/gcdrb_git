@@ -1,3 +1,5 @@
 Este é o meu exemplo de um ficheiro de texto...
 
 Estou a fazer alteraçºoes ao ficheiro
+
+ALTERAÇÕES EFETUADAS NO BRANCH 'NOVAFEATURE'
